@@ -120,14 +120,7 @@
 
 ---
 
-## 📊 `> cat ./github-analytics.json`
 
-<div align="center">
-
-<img height="195px" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ffff&icon_color=7fff00&text_color=ffffff&ring_color=00ffff&border_radius=10&include_all_commits=true&count_private=true"/>
-<img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ffff&text_color=ffffff&langs_count=8&border_radius=10"/>
-
-</div>
 
 <div align="center">
 

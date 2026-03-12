@@ -5,14 +5,9 @@
 
 </div>
 
-<!-- MATRIX RAIN EFFECT via SVG animation -->
+<!-- ANIMATED SECONDARY BANNER -->
 <div align="center">
-
-```
-▓▓░░▓░▓▓░░▒▒▓▓░░▓░▓▓░▒▒░░▓▓░▓░▒░▓▓░░▒░▓░▒▒▓░░▓▓░▒░▒▓▓░░▒░▓░▒▒
-░▒░▒▓░▒░▒▓▓░▒░▒▓░▒░▒▓▓░▒░▒░▓▒░▒▓░▒░▒▒▓░▒░▓▒░▒░▒▓░▒░▒░▓▒░░▒▓░▒░
-```
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,50:0d2137,100:0a0a0a&height=60&text=%E2%96%88%E2%96%88%20INITIALIZING%20SYSTEM...%20%20BUILD%3A%20PASSING%20%20STATUS%3A%20ONLINE%20%E2%96%88%E2%96%88&fontSize=14&fontColor=00ffff&animation=twinkling&fontAlignY=55" width="100%"/>
 </div>
 
 <div align="center">
@@ -46,8 +41,8 @@
 ║                                                              ║
 ║      @Id String name     = "Nawed";                          ║
 ║      String role         = "Java Fullstack Engineer";        ║
-║      String base         = "Hyderabad, INDIA  🇮🇳";           ║
-║      int    experience   = 1.5; // years                     ║
+║      String base         = "Hyderabad, INDIA  🇮🇳";          ║
+║      int    experience   = 3; // years                       ║
 ║                                                              ║
 ║      @ActivelyBuilding                                       ║
 ║      String[] now = {                                        ║
@@ -150,6 +145,13 @@
 
 ---
 
+## 🏆 `> cat ./achievements.log`
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 

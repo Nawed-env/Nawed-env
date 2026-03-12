@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Profile Views & Social Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=7c3aed&labelColor=0d0d0d)
+![Profile Views](https://komarev.com/ghpvc/?username=N A W E D&style=for-the-badge&color=7c3aed&labelColor=0d0d0d)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nawed-java)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=a78bfa)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nawed.tech30@email.com)
